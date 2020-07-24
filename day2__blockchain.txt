@@ -1,0 +1,34 @@
+                        Blockchain Day 2 Assignment
+Q 1 What is your understanding of blockchain?
+Ans: Blockchain is a chain or records stored in the form of
+blocks which are controlled by no single authority. It uses distributed
+database and cryptography to store the data. Distributed database systems
+provide decentralization means we can have information in any no of systems,whereas cryptography provides security to the information in the form of hash code which is called as Digital Signature. usage of Distributive systems and cryptography makes data immutable.
+
+Q 2 What is the core problem, blockchain trying to solve?
+Ans: Blockchain first time came into picture after 2008 bank crisis.It tries to solve the problems like
+1. Authenticity
+2. Security
+3. Need of powerful third party for trust.
+
+3. What are the few features which Blockchain will give u?
+Ans:Few features which Blockchain will give us are as follows:
+1. Cannot be corrupted.
+2. Decentralized Technology
+3. Enhanced Security
+4. Distributed Ledgers
+5. Consensus
+6. Faster Settlement
+
+ 4 What all things does a Block Contain?
+Ans: Each block contains a cryptographic hash of the previous
+block, a timestamp, and transaction data (generally represented as
+a Merkle tree).
+
+ 5. How is the verifiability of Blockchain is been attained ?
+Ans: In the blockchain the concept distributed database is used. Which
+means single block is stored in different computers in the same format.
+Format is previous signature+present block data=current Digital signature
+As we are saving data in same format we get same current Digital signature for
+the same code in all computers. Hence we can easily catch errors in the
+data by comparing the our current signature with others signature.If any error we can correct by replacing our data with correct data from other computers.
